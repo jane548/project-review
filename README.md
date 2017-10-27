@@ -1,2 +1,3 @@
 # project-review
-Product submission for code academy courses
+Project submission for code academy courses
+Current submission: Dasmoto's Arts & Crafts
